@@ -1,0 +1,16 @@
+{
+    "admins": [
+        {
+            "email": "abhishek2001jmt@gmail.com",
+            "password": "12345",
+            "balance": 135,
+            "id": "1"
+        },
+        {
+            "id": " 2",
+            "email": "abhishek17jmt@gmail.com",
+            "password": "54321",
+            "balance": 95
+        }
+    ]
+}
