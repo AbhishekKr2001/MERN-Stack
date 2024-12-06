@@ -1,0 +1,29 @@
+.container1 {
+    margin-top: 30px;
+    background-color: blue;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    height: 70vh;
+}
+
+.datas {
+    width: 50%;
+
+    display: flex;
+    flex-direction: column;
+}
+
+li {
+    list-style: none;
+}
+
+.user {
+    background-color: blueviolet;
+    border-radius: 20px;
+}
+
+.chatt {
+    width: 48%;
+    height: 100%;
+}
